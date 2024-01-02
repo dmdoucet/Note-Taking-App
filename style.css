@@ -13,8 +13,7 @@ body {
     width: 100%;
     min-height: 100vh;
     color: #176B87; 
-    padding-top: 5%;
-    padding-left: 10%;
+    padding: 5rem 10rem;
 }
 
 h1 {
@@ -54,14 +53,15 @@ button img {
 .input-box {
     position: relative;
     width: 100%;
-    max-width: 28rem;
+    float: left;
+    max-width: 30rem;
     min-height: 10rem;
     background-color: white;
     color: #176B87;
     border-radius: .5rem;
     border: none;
     padding: 1rem;
-    margin: 1rem 0;
+    margin: 1rem;
 }
 
 .input-box img {
