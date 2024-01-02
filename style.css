@@ -50,3 +50,24 @@ button img {
     width: 2rem;
     margin-right: 0.5rem;
 }
+
+.input-box {
+    position: relative;
+    width: 100%;
+    max-width: 28rem;
+    min-height: 10rem;
+    background-color: white;
+    color: #176B87;
+    border-radius: .5rem;
+    border: none;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+.input-box img {
+    width: 1rem;
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    cursor: pointer;
+}
